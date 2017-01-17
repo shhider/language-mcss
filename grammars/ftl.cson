@@ -1,0 +1,13 @@
+'scopeName': 'source.mcss'
+
+'fileTypes': [
+    'mcss'
+]
+
+'name': 'MCSS'
+
+'patterns': [
+    {
+        'include': 'source.css'
+    }
+]
