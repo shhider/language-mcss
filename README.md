@@ -1,4 +1,4 @@
 language-mcss
 ---
 
-Syntax highlighter for FTL files in Atom Editor.
+Syntax highlighter for MCSS files in Atom Editor.
